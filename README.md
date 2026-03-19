@@ -2,14 +2,37 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Welcome%20%20To%20My%20GitHub%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=-%20SHIVA%20KUMAR%20L%20-&descSize=18&descAlignY=55&textBg=false"/>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="50%" />
+<!-- Banner + About Me -->
+<div align="center">
 
-## 📌 About Me
-## Hi there 👋
-I’m Shiva Kumar, an enthusiast with a strong foundation in development and data analysis.
-I enjoy exploring new technologies and sharpening my problem-solving skills every day.
-Currently growing, learning, and crafting my path in tech.
-I believe in consistency, curiosity, and writing clean, efficient code.
+  <!-- Left Image -->
+  <img 
+    src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" 
+    width="30%" 
+    align="right"
+    style="max-width:400px; border-radius:10px;"
+  />
+
+  <!-- Right Content -->
+  <div align="left" style="width:55%; display:inline-block;">
+
+### 📌 About Me  
+### Hi there 👋  
+
+I’m **Shiva Kumar**, an enthusiast with a strong foundation in development and data analysis.  
+
+I enjoy exploring new technologies and sharpening my problem-solving skills every day.  
+
+Currently growing, learning, and crafting my path in tech.  
+
+I believe in **consistency, curiosity, and writing clean, efficient code.**
+
+  </div>
+
+</div>
+
+<br clear="both"/>
+<br>
 
 
 ## 🧠 My Focus Areas
