@@ -8,7 +8,7 @@
   <!-- Left Image -->
   <img 
     src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" 
-    width="30%" 
+    width="25%" 
     align="right"
     style="max-width:400px; border-radius:10px;"
   />
@@ -34,9 +34,6 @@ I believe in **consistency, curiosity, and writing clean, efficient code.**
 <br clear="both"/>
 <br>
 
-
-## 🧠 My Focus Areas
-CODE - LEARN - BUILD - REPEAT
 
 
 ## 🛠️ Languages & Tools
