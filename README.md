@@ -39,6 +39,8 @@ CODE - LEARN - BUILD - REPEAT
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/shivakumar-mca/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="LinkedIn"/></a> <a href="https://portfolio-shivakumar.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="PORTFOLIO"/></a></p>
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> (https://www.linkedin.com/in/shivakumar-mca/)) 💼 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/shivakumar-mca/](https://portfolio-shivakumar.vercel.app/)) 📈 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)]
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
