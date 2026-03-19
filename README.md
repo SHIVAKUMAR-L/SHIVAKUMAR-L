@@ -2,18 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Welcome%20%20To%20My%20GitHub%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=-%20SHIVA%20KUMAR%20L%20-&descSize=18&descAlignY=55&textBg=false"/>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="50%" />
 
 ## 📌 About Me
-- ## Hi there 👋
-- I’m Shiva Kumar, an enthusiast with a strong foundation in development and data analysis.
-- I enjoy exploring new technologies and sharpening my problem-solving skills every day.
-- Currently growing, learning, and crafting my path in tech.
-- I believe in consistency, curiosity, and writing clean, efficient code.
+## Hi there 👋
+I’m Shiva Kumar, an enthusiast with a strong foundation in development and data analysis.
+I enjoy exploring new technologies and sharpening my problem-solving skills every day.
+Currently growing, learning, and crafting my path in tech.
+I believe in consistency, curiosity, and writing clean, efficient code.
 
 
 ## 🧠 My Focus Areas
-- CODE - LEARN - BUILD - REPEAT
+CODE - LEARN - BUILD - REPEAT
 
 
 ## 🛠️ Languages & Tools
