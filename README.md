@@ -16,7 +16,7 @@
   <!-- Right Content -->
   <div align="left" style="width:55%; display:inline-block;">
 
-### 📌 About Me  
+
 ### Hi there 👋  
 
 I’m **Shiva Kumar**, an enthusiast with a strong foundation in development and data analysis.  
